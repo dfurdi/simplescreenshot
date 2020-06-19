@@ -1,0 +1,10 @@
+C:\Users\Crysi\source\repos\ScreenshotProgram\ScreenshotProgram\bin\Debug\ScreenshotProgram.exe.config
+C:\Users\Crysi\source\repos\ScreenshotProgram\ScreenshotProgram\bin\Debug\ScreenshotProgram.exe
+C:\Users\Crysi\source\repos\ScreenshotProgram\ScreenshotProgram\bin\Debug\ScreenshotProgram.pdb
+C:\Users\Crysi\source\repos\ScreenshotProgram\ScreenshotProgram\obj\Debug\ScreenshotProgram.csprojAssemblyReference.cache
+C:\Users\Crysi\source\repos\ScreenshotProgram\ScreenshotProgram\obj\Debug\ScreenshotProgram.Form1.resources
+C:\Users\Crysi\source\repos\ScreenshotProgram\ScreenshotProgram\obj\Debug\ScreenshotProgram.Properties.Resources.resources
+C:\Users\Crysi\source\repos\ScreenshotProgram\ScreenshotProgram\obj\Debug\ScreenshotProgram.csproj.GenerateResource.cache
+C:\Users\Crysi\source\repos\ScreenshotProgram\ScreenshotProgram\obj\Debug\ScreenshotProgram.csproj.CoreCompileInputs.cache
+C:\Users\Crysi\source\repos\ScreenshotProgram\ScreenshotProgram\obj\Debug\ScreenshotProgram.exe
+C:\Users\Crysi\source\repos\ScreenshotProgram\ScreenshotProgram\obj\Debug\ScreenshotProgram.pdb
